@@ -1,16 +1,16 @@
-### Hi there 👋
+# 🤘 Hi, I'm Calvin
 
-<!--
-**CMorooney/CMorooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write about all my completed projects over at my [Build Log](https://calvins.pizza) (I call this a "BLOG")
 
-Here are some ideas to get you started:
+But here on GH you might find some unfinished or more experimental work as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're just here for the highlights check out the pinned respositories!
+
+<br />
+<br />
+
+> I do this all just for fun but if for some reason you would like
+> 
+> something I made and want to make I gesture I do drink coffee 8-)
+> 
+> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6SPRXK)
