@@ -19,7 +19,6 @@ I am often posting my progress on my Instagram stories, so if you're curious you
 <br />
 
 > I do this all just for fun but if for some reason you like
-> 
 > something I made and want to make I gesture I do drink coffee 8-)
 > 
 > [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6SPRXK)
