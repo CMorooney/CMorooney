@@ -4,8 +4,6 @@ I write about all my completed projects over at my [Build Log](https://calvins.p
 
 But here on GH you might find some unfinished or more experimental work as well.
 
-If you're just here for the highlights check out the pinned respositories!
-
 <br />
 
 ## Current Working Project, [clippi](https://github.com/CMorooney/clippi)
