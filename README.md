@@ -4,8 +4,6 @@ I write about all my completed projects over at my [Build Log](https://calvins.p
 
 But here on GH you might find some unfinished or more experimental work as well.
 
-<br />
-
 ## Current Working Project, [clippi](https://github.com/CMorooney/clippi)
 I have been long putting together an [LZX](https://lzxindustries.net/) video synth and with the eventual arrival of my [TBC2](https://lzxindustries.net/products/tbc2) module I finally had a reliable way to send external video into the synth. While I initially had a lot of fun with an old VCR and thrift store VHS finds....well, it turns out having to rewind all those VHS' kind sucks, hah.
 
